@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there! I'm Funsho Akinbile, a frontend web developer with expertise in HTML, CSS, JavaScript, TypeScript, and React.js. With 2 years of experience, I specialize in creating visually appealing and user-friendly websites. I have a keen eye for detail and transform wireframes into responsive layouts that captivate and inspire. By leveraging modern frontend frameworks like React.js, I build dynamic and interactive interfaces that enhance user engagement. Collaborating closely with clients, I ensure their goals and brand identity are reflected in the final product. I am committed to delivering high-quality results within agreed timelines. If you're looking for a frontend web developer to bring your ideas to life, let's work together and create an outstanding web experience!. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
